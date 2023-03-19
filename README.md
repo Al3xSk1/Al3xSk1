@@ -12,4 +12,4 @@ I like Fintech
 
 He/Him/His
 
-Reach me on discord @ Valet#9197
+Reach me on discord @ Adota#9197
