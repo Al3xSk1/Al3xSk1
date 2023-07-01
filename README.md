@@ -6,4 +6,4 @@ I'm learning programming
 
 He/Him/His
 
-Reach me on LinkedIn using my Links
+Reach me using my Links
