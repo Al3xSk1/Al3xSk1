@@ -6,4 +6,4 @@ I'm learning programming
 
 He/Him/His
 
-Reach me using my email: alex@akovalski.org
+Reach me using my email: alex@kovalskitech.com
