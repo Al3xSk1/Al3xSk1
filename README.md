@@ -4,7 +4,7 @@ I'm **Al3xSk1**, a developer who enjoys building things around **Minecraft**.
 
 ## What I do
 
-This GitHub is primarily for my **Minecraft plugin projects** and related tooling.
+This GitHub is primarily for my **[Minecraft plugin projects](https://github.com/Al3xSk1/MC-CV/releases)** and related tooling.
 
 - Minecraft plugins
 - Server utilities & tools
